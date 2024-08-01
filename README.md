@@ -4,4 +4,4 @@
 Classification_of_disease 파일의 관련 설명은 블로그를 참고해주길 바랍니다.
  [참고 블로그 경로](https://velog.io/@one_two_three/series/Data-Analysis-Project-MIMIC-IV-Data)
 
-medication_per_diagnosis 파일은 진단에 따른 처방 약물 리스트를 확인해보기 위한 코드입니다.
+\*medication_per_diagnosis 파일은 진단에 따른 처방 약물 리스트를 확인해보기 위한 코드입니다.
